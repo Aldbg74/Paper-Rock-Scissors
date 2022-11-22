@@ -1,5 +1,4 @@
 # Paper-Rock-Scissors
-Paper, Rock, Scissors
 
 In project.
 Paper game, pebbles, scissors.
